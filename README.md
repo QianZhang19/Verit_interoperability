@@ -70,6 +70,4 @@ The middleware follows a modular architecture with the following components:
 5. **Monitoring & Logging**: Tracks performance and issues
 
 
-## Contributing
 
-We welcome contributions from the community! Please see our [Contributing Guidelines](CONTRIBUTING.md) for more information.
