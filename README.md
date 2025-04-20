@@ -73,8 +73,3 @@ The middleware follows a modular architecture with the following components:
 ## Contributing
 
 We welcome contributions from the community! Please see our [Contributing Guidelines](CONTRIBUTING.md) for more information.
-
-## Licence
-
-This project is licensed under the MIT Licence - see the [LICENCE](LICENCE) file for details.
-
